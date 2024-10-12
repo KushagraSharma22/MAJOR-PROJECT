@@ -117,7 +117,7 @@ def main():
             delete_task(tasks)
         elif choice == '5':
             save_tasks(tasks)
-            print("Tasks saved. see you .")
+            print("Tasks updated. see you soon.")
             
             break
         else:
